@@ -8,8 +8,9 @@ The topic I decided to choose was business because I've always been interested i
 I am currently in the first stage of the engineering design process, where the main goal is to define the problem. The problem to solve with my project is that lots of people don't fully understand how technology will affect business and how it can improve the way a business works. As the next stage is to research the problem which to do this is by reading the articles I provided or the internet about business technology. I also plan to talk to people,as to hear their thoughts on how technology has changed how people work and run their businesses. Overall, this will help me gain a better understanding of the issue and ways to solve it.
 
 # Skills
-Some of the skills I've
-
+Some of the skills I've developed while working on my business project are time management, communication, and how to Google. These skills are engaged in my everyday life and not only to help me with this project.
+**Creativity**
+ While working on this project it has helped me develop creativity by thinking outside the box and the new different kinds of ways that technology can improve businesses. 
 
 [Next](entry02.md)
 
