@@ -22,6 +22,9 @@ Organization has taught me valuable skills by learning how to plan and manage my
 
 Communication is also a key skill because conversations help people understand the different perspectives of the business and gather their ideas to make the business more successful and stronger. Additionally, being able to share ideas and collaborate with other co-workers will improve your working habits.
 
+**Summary**
+
+Overall, I chose business for my project because I've always been interested in how businesses work and how people come up with new ideas to make them successful. I also want to learn more about business since my mom works in that line of field. Furthermore, I really think it is very interesting while reading different types of articles about business. Which made me realize the topic better and enjoy it even more. While developing my skills which are creativity, organization, and communication, which helps me for the near future.
  
  
 
