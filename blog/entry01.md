@@ -11,6 +11,7 @@ I am currently in the first stage of the engineering design process, where the m
 Some of the skills I've developed while working on my business project are time management, communication, and how to Google. These skills are engaged in my everyday life and not only to help me with this project.
 
 **Creativity**
+
  While working on this project it has helped me develop creativity by thinking outside the box and the new different kinds of ways that technology can improve businesses. 
 
 [Next](entry02.md)
