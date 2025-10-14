@@ -12,7 +12,7 @@ Some of the skills I've developed while working on my business project are time 
 
 **Creativity**
 
- While working on this project it has helped me develop creativity by thinking outside the box and the new different kinds of ways that technology can improve businesses. As I had to connect technology to real world businesses which pushed me
+ While working on this project it has helped me develop creativity by thinking outside the box and the new different kinds of ways that technology can improve businesses. 
 
 [Next](entry02.md)
 
