@@ -2,11 +2,16 @@
 Topic: **Business**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* 
+* 
 
 ## Part A: existing technology
-* Tech
+* Portable scanners
+* Typewriter Keyboard
+* Ticktime
+* Pen scanner
+* Pedometer
+*  [Business Gadgets](https://www.monitask.com/en/blog/ten-must-have-gadgets-for-business-leaders-and-project-managers).
   * Detail
   * [image text](image URL)
 
