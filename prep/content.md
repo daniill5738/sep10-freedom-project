@@ -29,7 +29,15 @@ A penscanner is a pen shaped device that can scan text from books, papers, or sc
 * It makes work faster and more accurate, especially when dealing with lots of information.
 
   *  [Penscanner Information](https://shop.penpowerinc.com/products/worldpenscan-wi-fi-pen-scanner)
+    ### Portable printer
+A portable printer is a small and lightweight printer that can print documents anywhere, without needing a full computer setup.
 
+* Lets businesses print invoices, receipts, or reports on the spot.
+
+* it is bluetooth so it can connect to computers, tablets, or even smartphones wirelessly.
+
+* Makes work faster and more convenient because you don’t need a big printer or office.
+    *  [Portable printer Information](https://www.brother.com.au/en/blog/a-guide-to-portable-printers-for-mobile-workforces?srsltid=AfmBOorAUEo-lcNJX3gmSuTWTUmBttXl6HsDquyygNHNlAkm9Uhl7r8k&utm_source=chatgpt.com)
 ## Part B: possible future technology
 * Idea
   * Detail
