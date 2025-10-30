@@ -11,10 +11,8 @@ In the business industry, we see lots of people use many types of technology to 
   *  [Mobile Devices](https://www.malwarebytes.com/wp-content/uploads/sites/2/2015/05/photodune-9089398-mobile-devices-s.jpg)
 
 ## Part A: existing technology
-* Portable scanners
-* Typewriter Keyboard
-* Ticktime
-* Pen scanner
+#Ticktime
+
 * Pedometer
 *  [Business Gadgets](https://www.monitask.com/en/blog/ten-must-have-gadgets-for-business-leaders-and-project-managers).
   * Detail
