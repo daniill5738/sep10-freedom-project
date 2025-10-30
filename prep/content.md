@@ -13,9 +13,9 @@ In the business industry, we see lots of people use many types of technology to 
 ## Part A: existing technology
  ### Ticktime
 * A ticktime helps businesses keep track of things the exact moment they happen. Which makes work more efficiently, faster, and more organized.
-      * [Ticktime Information](https://www.ticktime.store/)
+   *  [Ticktime Information](https://www.ticktime.store/)
 
-* Pedometer
+### Pedometer
 *  [Business Gadgets](https://www.monitask.com/en/blog/ten-must-have-gadgets-for-business-leaders-and-project-managers).
   * Detail
   * [image text](image URL)
