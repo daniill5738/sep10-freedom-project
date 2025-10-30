@@ -13,15 +13,16 @@ In the business industry, we see lots of people use many types of technology to 
 ## Part A: existing technology
  ### Ticktime
 * A ticktime helps businesses keep track of things the exact moment they happen. Which makes work more efficiently, faster, and more organized.
-* You flip the ticktime to set the time you want or even reset
-*   It is magnetic so you could place it anything thats iron or steel
-* Can be used to make food, hotdrinks ,etc.
+* You flip the ticktime to set the time you want or even reset.
+*   It is magnetic, so you could place it on anything thats iron or steel.
+* It can be used for timing things like cooking food, making hot drinks , and more.
   
   *  [Ticktime Information](https://www.ticktime.store/)
+    
 ### Pedometer
-*  [Business Gadgets](https://www.monitask.com/en/blog/ten-must-have-gadgets-for-business-leaders-and-project-managers).
-  * Detail
-  * [image text](image URL)
+
+* 
+  *
 
 ## Part B: possible future technology
 * Idea
