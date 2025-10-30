@@ -26,7 +26,9 @@ A penscanner is a pen shaped device that can scan text from books, papers, or sc
 
 * Businesses can use it to quickly record information from documents, contracts, or receipts without typing everything out.
 
-* Makes work faster and more accurate, especially when dealing with lots of written info.
+* It makes work faster and more accurate, especially when dealing with lots of information.
+
+  *  [Penscanner Information](https://shop.penpowerinc.com/products/worldpenscan-wi-fi-pen-scanner)
 
 ## Part B: possible future technology
 * Idea
