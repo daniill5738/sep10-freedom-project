@@ -2,7 +2,7 @@
 Topic: **Business**
 
 ## Overview/Introduction/Context
-In the Business industry we see lots of people using different types of technology and shows how people make their money and needs. In business there are key technologies that are commonly used worldwide such as computers as it lets people store and organize signifcant information, and use programs to make their work a lot faster. Additionally, mobile devices are also really good because they let peopler communicate with each other and check up on them if they need help.
+In the business industry, we see lots of people use many types of technology to make money and meet their goals. There are key technologies that are commonly used worldwide, such as computers as it lets people store and organize signifcant information, and use programs to make their work a lot faster. Additionally, mobile devices are also really good because they let peopler communicate with each other and check up on them if they need help.
 *  [Computer](https://media.geeksforgeeks.org/wp-content/uploads/20240710085808/desktop.jpg).
 * [Mobile Devices](https://www.malwarebytes.com/wp-content/uploads/sites/2/2015/05/photodune-9089398-mobile-devices-s.jpg).
 
