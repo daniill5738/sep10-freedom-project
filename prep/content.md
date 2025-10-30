@@ -6,9 +6,9 @@ In the business industry, we see lots of people use many types of technology to 
 
 * Computers and Mobile Devices play a huge role in how businesses work today, but there are still other technologies out there that have so much potential into making a business successful and not just computers or mobile devices.
 
-[Computer](https://media.geeksforgeeks.org/wp-content/uploads/20240710085808/desktop.jpg).
+ *[Computer](https://media.geeksforgeeks.org/wp-content/uploads/20240710085808/desktop.jpg).
 
-[Mobile Devices](https://www.malwarebytes.com/wp-content/uploads/sites/2/2015/05/photodune-9089398-mobile-devices-s.jpg).
+ *[Mobile Devices](https://www.malwarebytes.com/wp-content/uploads/sites/2/2015/05/photodune-9089398-mobile-devices-s.jpg).
 
 ## Part A: existing technology
 * Portable scanners
