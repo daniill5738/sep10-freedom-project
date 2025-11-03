@@ -1,7 +1,8 @@
 # Entry 2 : Business
-##### 10/06/25
+##### 11/03/25
 
-Text
+# Content
+Ive been searching for software and hardware technologies 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
