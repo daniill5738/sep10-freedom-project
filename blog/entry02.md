@@ -1,5 +1,5 @@
-# Entry 2
-##### X/X/XX
+# Entry 2 : Business
+##### 10/06/25
 
 Text
 
