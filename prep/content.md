@@ -18,6 +18,12 @@ Slack is an app where you can communication with people, and they help you brain
 * Pings you when someone tags you in a message so you dont miss significant information about something.
 * You can send links,images, and documents in chats.
     *  [Slack](https://slack.com/)
+### Wave
+* Tracks income and expenses so you can be more organized.
+* You can make professional invoices for clients and send aswell.
+* It gives you a report of what your spending and tracks your business money.
+* Lastly you can also store your data in one place making it easier to do taxes and spend less time.
+    *  [Wave](https://www.waveapps.com/)
 
 ## Hardware Technology
 
