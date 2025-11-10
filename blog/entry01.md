@@ -8,7 +8,7 @@ The topic I decided to choose was business because I've always been interested i
 I am currently in the first stage of the engineering design process, where the main goal is to define the problem. The problem I hope to solve with my project is that many people don’t fully understand how businesses work and what makes them successful. Furthermore, to research the problem, which to do this, is by reading the articles I provided or the internet about business strategies, management, and growth. I also plan to talk to people to hear their thoughts on what makes a business run smoothly and how other successful people run their businesses. Overall, this will help me gain a better understanding of the topic and find different ways to find a solution.
 
 # Skills
-Some of the skills I've developed while working on my business project are time management, communication, and how to Google. These skills are engaged in my everyday life and not only to help me with this project.
+Some of the skills I've developed while working on my business project are creativity, communication, and how to Google. These skills are engaged in my everyday life and not only to help me with this project.
 
 **Creativity**
 
