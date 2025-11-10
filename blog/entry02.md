@@ -12,7 +12,7 @@ To find hardware technologies, I googled "business gadgets" and found variety of
 # Engineering Design Process
 I am currently in the second stage of the engineering design process, where the first step is to research the problem. The problem I hope to solve with my project is that many people don’t fully understand how businesses work and what makes them successful. Furthermore, to research the problem, which to do this, is by searching up technologies that help business strategies, management, and growth. In the next step is to brainstorm a solution which I plan to talk to people to hear their thoughts on what makes a business run smoothly and how other successful people run their businesses. Overall, this will help me gain a better understanding of the topic and find different ways to find a solution.
 
-
+# Skills
 
 
 [Previous](entry01.md) | [Next](entry03.md)
