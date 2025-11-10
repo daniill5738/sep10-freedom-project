@@ -9,8 +9,18 @@ In the business industry, we see lots of people use many types of technology to 
   *  [Computer](https://media.geeksforgeeks.org/wp-content/uploads/20240710085808/desktop.jpg)
 
   *  [Mobile Devices](https://www.malwarebytes.com/wp-content/uploads/sites/2/2015/05/photodune-9089398-mobile-devices-s.jpg)
+## Software Technology
 
-## Part A: existing technology
+### Slack
+Slack is an app where you can communication with people, and they help you brainstorm any ideas. Then message into the chat. Which it will increase efficiency in your business.
+* It can keep all team chats, messages, and updates in a channel so you can be more organized.
+* Allows you to message individuals privately or even make group chats.
+* Pings you when someone tags you in a message so you dont miss significant information about something.
+* You can send links,images, and documents in chats.
+    *  [Slack](https://slack.com/)
+
+## Hardware Technology
+
  ### Ticktime
 A ticktime helps businesses keep track of things the exact moment they happen. Which makes work more efficiently, faster, and more organized.
 * You flip the ticktime to set the time you want or even reset.
@@ -38,6 +48,9 @@ A portable printer is a small and lightweight printer that can print documents a
 
 * Makes work faster and more convenient because you don’t need a big printer or office.
     *  [Portable printer Information](https://www.brother.com.au/en/blog/a-guide-to-portable-printers-for-mobile-workforces?srsltid=AfmBOorAUEo-lcNJX3gmSuTWTUmBttXl6HsDquyygNHNlAkm9Uhl7r8k&utm_source=chatgpt.com)
+      
+
+    
 ## Part B: possible future technology
 * Idea
   * Detail
