@@ -14,9 +14,11 @@ I am currently in the second stage of the engineering design process, where the 
 
 # Skills
 **Collaboration**
-Collaboration has helped significantly while doing this blog. I asked my friend for support, in knowing what to research like what kind of business gadgets are useful and how they help people in businesses. 
+
+Collaboration has helped significantly while doing this blog. I asked my friend for support, in knowing what to research on what kind of business gadgets are useful and how they help people in businesses. Additionally, I was communicating with people and showed them my work to check my grammer in what I wrote and see if they were gonna give me any recommendations.
 
 **Time Management**
+
 For time management, I decided to choose November 9 because that was the day I had off because I have soccer practices and matches with my team on other days. When the day arrived I decided to start writing my blog entry and finish it before the due date.
 
 [Previous](entry01.md) | [Next](entry03.md)
