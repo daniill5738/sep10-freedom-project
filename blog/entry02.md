@@ -9,6 +9,8 @@ To find hardware technologies, I googled "business gadgets" and found variety of
 
 # Software
 
+# Engineering Design Process
+This step of the design process is researching the problem and the next step is solving the problem 
 
 
 
