@@ -21,6 +21,8 @@ Collaboration has helped significantly while doing this blog. I asked my friend 
 
 For time management, I decided to choose November 9 because that was the day I had off because I have soccer practices and matches with my team on other days. When the day arrived I decided to start writing my blog entry and finish it before the due date.
 
+**Summary**
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
