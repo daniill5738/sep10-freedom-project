@@ -71,5 +71,7 @@ A ticktime helps businesses keep track of things the exact moment they happen. W
     
     
 ## Part B: possible future technology
-* Idea
-  * Detail
+### Universe
+Universe is an app that helps other people in their age group collabrate and work on homework together.
+  * For example once they set there date of birth they can only interact with people their age group.
+  * its unlike discord and slack because in the chat there are options to send a message with CSS or HTML.
