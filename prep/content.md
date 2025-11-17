@@ -11,7 +11,7 @@ In the business industry, we see lots of people use many types of technology to 
   *  [Mobile Devices](https://www.malwarebytes.com/wp-content/uploads/sites/2/2015/05/photodune-9089398-mobile-devices-s.jpg)
 
    ## Software Technology From Most Useful To Least Useful.
-  ### Slack (Most Useful)
+### Slack (Most Useful)
 Slack is an app where you can communication with people, and they help you brainstorm any ideas. Then message into the chat. Which it will increase efficiency in your business.
 * It can keep all team chats, messages, and updates in a channel so you can be more organized.
 * Allows you to message individuals privately or even make group chats.
@@ -51,7 +51,7 @@ A penscanner is a pen shaped device that can scan text from books, papers, or sc
 * It makes work faster and more accurate, especially when dealing with lots of information.
 
   *  [Penscanner Information](https://shop.penpowerinc.com/products/worldpenscan-wi-fi-pen-scanner)
-    ### Portable printer
+### Portable printer
 A portable printer is a small and lightweight printer that can print documents anywhere, without needing a full computer setup.
 
 * Lets businesses print invoices, receipts, or reports on the spot.
@@ -61,7 +61,7 @@ A portable printer is a small and lightweight printer that can print documents a
 * Makes work faster and more convenient because you don’t need a big printer or office.
     *  [Portable printer Information](https://www.brother.com.au/en/blog/a-guide-to-portable-printers-for-mobile-workforces?srsltid=AfmBOorAUEo-lcNJX3gmSuTWTUmBttXl6HsDquyygNHNlAkm9Uhl7r8k&utm_source=chatgpt.com)
       
- ### Ticktime (Least Useful)
+### Ticktime (Least Useful)
 A ticktime helps businesses keep track of things the exact moment they happen. Which makes work more efficiently, faster, and more organized.
 * You flip the ticktime to set the time you want or even reset.
 *   It is magnetic, so you could place it on anything thats iron or steel.
