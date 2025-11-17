@@ -11,7 +11,12 @@ In the business industry, we see lots of people use many types of technology to 
   *  [Mobile Devices](https://www.malwarebytes.com/wp-content/uploads/sites/2/2015/05/photodune-9089398-mobile-devices-s.jpg)
 
    ## Software and Hardware Technology From Most Useful To Least.
-  
+  ### Slack (Most Useful)
+Slack is an app where you can communication with people, and they help you brainstorm any ideas. Then message into the chat. Which it will increase efficiency in your business.
+* It can keep all team chats, messages, and updates in a channel so you can be more organized.
+* Allows you to message individuals privately or even make group chats.
+* Pings you when someone tags you in a message so you dont miss significant information about something.
+* You can send links,images, and documents in chats.
 ## Software Technology
 
 ### Slack
