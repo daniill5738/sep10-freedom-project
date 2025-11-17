@@ -9,6 +9,9 @@ In the business industry, we see lots of people use many types of technology to 
   *  [Computer](https://media.geeksforgeeks.org/wp-content/uploads/20240710085808/desktop.jpg)
 
   *  [Mobile Devices](https://www.malwarebytes.com/wp-content/uploads/sites/2/2015/05/photodune-9089398-mobile-devices-s.jpg)
+
+   ## Software and Hardware Technology From Most Useful To Least.
+  
 ## Software Technology
 
 ### Slack
