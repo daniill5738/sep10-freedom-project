@@ -36,10 +36,7 @@ Canva is an app that lets you easily create designs for your business, such as l
 * Once you made your design on Canva, you can download your designs in different types of formats such as PNG, JPG, and PDF.
     *  [Canva](https://www.canva.com/)
  
- ## Software Technology From Most Useful To Least.
- Wave
- Slack
- Canva
+
 ## Hardware Technology
 
  ### Ticktime
