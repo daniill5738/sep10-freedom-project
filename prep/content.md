@@ -24,7 +24,17 @@ Slack is an app where you can communication with people, and they help you brain
 * It gives you a report of what your spending and tracks your business money.
 * Lastly you can also store your data in one place making it easier to do taxes and spend less time.
     *  [Wave](https://www.waveapps.com/)
+### Canva
+Canva is an app that lets you easily create designs for your business, such as logos, presentations, etc. Which will help make your work look more professional.
 
+* Offers lots of templates that can help you get started on making a professional design for any purpose.
+
+* Lets you drag, drop, and upload your images and texts to make it simple to edit your work.
+
+* Allows your friends to collaborate or work on the same design, which the changes are all live.
+
+* Once you made your design on Canva, you can download your designs in different types of formats such as PNG, JPG, and PDF.
+    *  [Canva](https://www.canva.com/)
 ## Hardware Technology
 
  ### Ticktime
