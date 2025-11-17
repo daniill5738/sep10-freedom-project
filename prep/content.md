@@ -73,5 +73,14 @@ A ticktime helps businesses keep track of things the exact moment they happen. W
 ## Part B: possible future technology
 ### Universe
 Universe is an app that helps other people in their age group collabrate and work on homework together.
-  * For example once they set there date of birth they can only interact with people their age group.
-  * its unlike discord and slack because in the chat there are options to send a message with CSS or HTML.
+  * For example once they set there date of birth, they can only interact with people their age group.
+  * its unlike discord and slack because in the chat there are options to send a message with a typing format of CSS or HTML.
+  * It is also a free app that everyone can engage in at any age.
+  * 
+### Asheno
+Asheno is a gadget that has built in AI in a pen shaped form
+* Contains sensors that track your hand movement and knows words you wrote on paper.
+* It sends a signal/alarm for every gramatical error you made in your writing.
+* It has tiny digital screen on what you did wrong and what you should replace instead.
+* The model is going to be medium size as there is a lot of wires and stuff thats going to be inside.
+
