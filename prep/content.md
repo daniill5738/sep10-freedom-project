@@ -79,7 +79,7 @@ Universe is an app that helps other people in their age group collabrate and wor
   * The app can also detect any errors wrong if your trying to send a message to a person with either html or css.
   * It can give you an option to autocorrect you or you can decline the help and figure out yourself.
 ![](https://cdn.dribbble.com/userupload/31468534/file/original-f7f855a5a3814a32d6e6cdb9da6e34ed.jpg?format=webp&resize=400x300&vertical=center)
-)
+
 ### Asheno
 Asheno is a gadget that has built in AI in a pen shaped form
 * Contains sensors that track your hand movement and knows words you wrote on paper.
