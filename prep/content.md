@@ -68,7 +68,7 @@ A ticktime helps businesses keep track of things the exact moment they happen. W
 * It can be used for timing things like cooking food, making hot drinks , and more.
   
   *  [Ticktime Information](https://www.ticktime.store/)
-    
+![](https://m.media-amazon.com/images/I/51nYA1QErrL.jpg)
     
 ## Possible Future Technology
 ### Universe
