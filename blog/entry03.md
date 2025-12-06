@@ -15,6 +15,7 @@ I am in the third stage of the engineering design process, where the first step 
 **Creativity**
 
 For this assignment I had to be creative and think of a future technologies that dont exist and be smarter than ai for once. I had to think of what problems that people have and brainstorm things that consume alot of peoples time, so putting all of this in consideration I thought of a idea that will save people more time and not worry about doing it after there work,school,etc.
+
 **Time management**
 
 For time management, I decided to do Blog 3 on December 5th because me and my group were working on another very significant project that we had to do this whole week. Moreover, I planned to finish that first and then focus on the blog. However, I should have done the blog first because it was due earlier than the project, which means I will have more time for the project than for Blog 3. Next time, I will be more considerate of my time and manage it better when we have assignments.
