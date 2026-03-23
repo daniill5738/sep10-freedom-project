@@ -10,7 +10,8 @@
   * Bulma uses `columns` and `column` instead of `row` and `col`
   * I tested how columns auto space things out
 
-* Example I tried:
+* Example shown below:
+  
 ```html
   <div class="columns">
     <div class="column">Text</div>
