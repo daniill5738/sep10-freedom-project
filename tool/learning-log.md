@@ -3,43 +3,29 @@
 ## Tool: Bulma
 
 
+### 3/21
 
-### 3/18/26:
-* Started learning Bulma and saw it is similar to Bootstrap but with different class names
-* Noticed it uses `columns` and `column` instead of `row` and `col`
+* I learned how to use Bulma columns to organize my layout
 
----
+  * Bulma uses `columns` and `column` instead of `row` and `col`
+  * I tested how columns auto space things out
 
-### 3/19/26:
-* Tried making a layout using columns
-* Was confused at first but understood how `columns` works
+* Example I tried:
+```html
+  <div class="columns">
+    <div class="column">Text</div>
+    <div class="column">Text</div>
+  </div>
+```
+  * Challenge: getting used to div class names
 
----
-
-### 3/20/26:
-* Tested sizes like `is-half` and `is-one-third`
-* Learned Bulma uses words instead of numbers
-
----
-
-### 3/21/26:
-* Tried buttons and colors like `button is-primary`
-* Challenge was remembering class names
-
----
-
-### 3/22/26:
-* Practiced more layouts
-* Better understanding of how Bulma works
-* Next step is making a full page
-
----
-
+A challenge I had was getting used to the different class names compared to Bootstrap
+I learned that Bulma is easier to read but still works similarly
 
 * https://bulma.io/documentation/
 * Tried columns, sizes, buttons
-* Challenge: different names from Bootstrap
-* Next: build a full page
+* Challenge: different div classes from Bootstrap
+* Next: Use this tool for my FP project.
 
 
 <!--
