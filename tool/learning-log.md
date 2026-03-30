@@ -34,6 +34,10 @@ I learned that Bulma is easier to read but still works similarly
 * Flexbox for layout
 * easy readable class/div names
 
+* Challenge was to getting used to this type of tool
+  it is different than bootstrap, what we usally work on and learned in the past couple of monthes.
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
