@@ -28,6 +28,11 @@ I learned that Bulma is easier to read but still works similarly
 * Challenge: different div classes from Bootstrap
 * Next: Use this tool for my FP project.
 
+### 3/30
+
+* Bulma has only a css and no built in javascript
+* Flexbox for layout
+* easy readable class/div names
 
 <!--
 * Links you used today (websites, videos, etc)
