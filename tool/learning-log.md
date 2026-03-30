@@ -32,7 +32,7 @@ I learned that Bulma is easier to read but still works similarly
 
 * Bulma has only a css and no built in javascript
 * Flexbox for layout
-* easy readable class/div names
+* Easy readable class/div names
 
 * Challenge was to getting used to this type of tool
 <p>it is different than bootstrap, what we usally work on and learned in the past couple of monthes.</p>
