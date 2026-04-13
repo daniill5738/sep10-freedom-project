@@ -40,16 +40,16 @@ I learned that Bulma is easier to read but still works similarly
 ### 4/12
 
 * While tinkering with bulma I learned that you can change the size of the buttons, as controls have a default font size of $size-normal and it also can come in 3 additional sizes, which can be accessed traveling through 3 additional mixins.
-```html
+
 * @include controls.control-small;
- with a font size $size-small
+ with a font size `$size-small`
 
 * @include controls.control-medium;
- with a font size $size-medium
+ with a font size `$size-medium`
 
 * @include controls.control-large;
- with a font size $size-large
-```
+ with a font size `$size-large`
+ 
 * This is the html code shown below
 
 ```html
