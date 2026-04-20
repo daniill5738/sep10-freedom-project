@@ -65,6 +65,7 @@ I learned that Bulma is easier to read but still works similarly
 <button class="bulma-control-mixin is-large">
   Large
 </button>
+```
 
 ### 4/19
 
