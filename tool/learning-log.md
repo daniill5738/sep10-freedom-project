@@ -65,6 +65,20 @@ I learned that Bulma is easier to read but still works similarly
 <button class="bulma-control-mixin is-large">
   Large
 </button>
+
+4/20
+Today I learned how what keywords mean in Bulma and it really taught me alot for example:
+
+The @use keyword allows you to use to configure a module when loading it with our own variables:
+
+```html
+@use "bulma/sass/layout/section" with (
+  $section-padding: 3rem,
+  $section-padding-desktop: 4.5rem
+);
+```
+* This shows how Bulma imports with a custom Sass variables.
+
 ```
 <!--
 * Links you used today (websites, videos, etc)
