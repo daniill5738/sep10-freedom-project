@@ -73,7 +73,7 @@ Today I learned how what keywords mean in Bulma and it really taught me alot for
 
 The @use keyword allows you to use to configure a module when loading it with our own variables:
 
-```html
+```css
 @use "bulma/sass/layout/section" with (
   $section-padding: 3rem,
   $section-padding-desktop: 4.5rem
@@ -81,6 +81,12 @@ The @use keyword allows you to use to configure a module when loading it with ou
 ```
 * This shows how Bulma imports with a custom Sass variables.
 
+Also another component could be the .section layout component uses 4 variables to define its padding:
+```css
+$section-padding: 3rem 1.5rem !default;
+$section-padding-desktop: 3rem 3rem !default;
+$section-padding-medium: 9rem 4.5rem !default;
+$section-padding-large: 18rem 6rem !default;
 ```
 <!--
 * Links you used today (websites, videos, etc)
