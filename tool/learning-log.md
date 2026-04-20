@@ -49,7 +49,7 @@ I learned that Bulma is easier to read but still works similarly
 
 * `@include controls.control-large;`
  with a font size `$size-large`
- 
+
 * This is the html code shown below
 
 ```html
@@ -66,7 +66,8 @@ I learned that Bulma is easier to read but still works similarly
   Large
 </button>
 
-4/19
+### 4/19
+
 Today I learned how what keywords mean in Bulma and it really taught me alot for example:
 
 The @use keyword allows you to use to configure a module when loading it with our own variables:
