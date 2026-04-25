@@ -71,7 +71,7 @@ I learned that Bulma is easier to read but still works similarly
 
 Today I learned how what keywords mean in Bulma and it really taught me alot for example:
 
-The @use keyword allows you to use to configure a module when loading it with our own variables:
+The `@use` keyword allows you to use to configure a module when loading it with our own variables:
 
 ```css
 @use "bulma/sass/layout/section" with (
