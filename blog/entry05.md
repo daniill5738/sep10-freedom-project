@@ -43,7 +43,7 @@ I worked on different days like 3/21, 3/30, 4/12, and 4/19 to keep track of my p
 
 # Summary
 
-Overall, learning Bulma was a little confusing at first, but it got easier over time. I learned how to use columns, customize buttons, and understand how Bulma works compared to Bootstrap. This will help me a lot when I start building my final project website.
+Overall, learning Bulma was a little confusing at first, but over time it got easier for me to understand. I learned how Bulma functions and use columns, buttons, and understand how Bulma functions compared to Bootstrap. Moreover, this will help me a lot when I start building my freedom project website.
 
 # Sources
 
