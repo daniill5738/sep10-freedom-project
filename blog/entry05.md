@@ -12,7 +12,7 @@ One of the main things I learned is that Bulma uses columns instead of rows and 
   <div class="column">Text</div>
 </div>
 ```
-This automatically spaces things out evenly using Flexbox. Furthermore, I also learned that Bulma is only CSS, meaning that it has no built-in JavaScript. Which makes it easier to understand, but if I want animations or interactions I would need to create my own JavaScript. Additionally, I tried was changing the button sizes. Bulma has different sizes such as small, medium, and large using div classes like is-small, is-medium, and is-large. This helped me understand how to customize the component known as buttons. I also learned about Sass in Bulma, especially the @use keyword. This lets you change variables when importing parts of Bulma. For example, you can change spacing like section padding, which showed me how customizable Bulma is.
+This automatically spaces things out evenly using Flexbox. Furthermore, I also learned that Bulma is only CSS, meaning that it has no built-in JavaScript. Which makes it easier to understand, but if I want animations or interactions I would need to create my own JavaScript. Additionally, I tried was changing the button sizes. Bulma has different sizes such as small, medium, and large using div classes like is-small, is-medium, and is-large. This helped me understand how to customize the component known as buttons. I also learned about Sass in Bulma, especially the `@use` keyword. This lets you change variables when importing parts of Bulma. For example, you can change spacing like section padding, which showed me how customizable Bulma is.
 
 # How I Learned
 
