@@ -5,7 +5,7 @@
 * [Desktop](https://wireframe.cc/0gSJeW)
 
 ## Colors
-* ##FFFFFF
+* #FFFFFF
 * #000000
 * #808080
 * #C0C0C0
