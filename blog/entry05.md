@@ -35,7 +35,7 @@ One challenge I had was getting used to the different div class names because si
 # Skills
 
 Collaboration
-I asked classmates and friends for help when I was confused about Bulma. I also compared my work with others to see what I could improve.
+I asked classmates and friends for help when I was confused about Bulma. I also tinkered with Bulma and showed my work with others to see what I could improve on.
 
 Time Management
 I worked on different days like 3/21, 3/30, 4/12, and 4/19 to keep track of my progress. This helped me not rush everything last minute.
