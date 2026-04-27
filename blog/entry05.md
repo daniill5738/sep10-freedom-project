@@ -48,6 +48,7 @@ Overall, learning Bulma was a little confusing at first, but over time it got ea
 # Sources
 
 https://bulma.io/documentation/
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
