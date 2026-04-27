@@ -3,9 +3,7 @@
 
 # Content
 
-I’ve been learning about my FP tool which is Bulma, a CSS framework that can help me design my website look more professional. This is going to help me for my final project known as, "The Freedom Project", because I can use this tool to help make my layout look clean and organized.
-
-One of the main things I learned is that Bulma uses columns instead of rows and cols like Bootstrap. At first it was confusing, but then I realized it’s actually more simple than I thought. For example:
+I’ve been learning about my FP tool which is Bulma, a CSS framework that can help me design my website look more professional. This is going to help me for my final project known as, "The Freedom Project", because I can use this tool to help make my layout look clean and organized. One of the main things I learned is that Bulma uses columns instead of rows and cols like Bootstrap. At first it was confusing, but then I realized it’s actually more simple than I thought. For example:
 ```css
 <div class="columns">
   <div class="column">Text</div>
