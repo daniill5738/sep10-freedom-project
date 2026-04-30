@@ -1,7 +1,17 @@
 body{
-background-color: #5C7C89;
+ background: linear-gradient(
+    to left,
+    #c2bdbd 25%,
+    #444444 50%,
+    #939090 75%,
+    #959494 100%
+  );
 font-family:Fuzzy Bubbles;
 
 h1{
     font-family:Cherry Cream Soda;
+}
+
+html {
+  scroll-behavior: smooth;
 }
