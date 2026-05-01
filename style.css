@@ -7,6 +7,7 @@ body{
     #959494 100%
   );
 font-family:Fuzzy Bubbles;
+}
 
 h1{
     font-family:Cherry Cream Soda;
@@ -24,4 +25,13 @@ html {
   position: relative;
   background-color: white;
   background-blend-mode: darken;
+}
+
+img {
+  height: 30em;
+}
+
+.navbar {
+  padding-top: 0.1px;
+  padding-bottom: 0.1px;
 }
