@@ -17,9 +17,18 @@
 * [Inter](https://fonts.google.com/specimen/Inter?preview.text=Freedom%20Project&specimen.preview.text=Freedom+Project)
 
 ## Timeline
+T 4/30 - Coding on HTML (adding fonts, text, etc)
+F 5/1 - Adding code for css for each class to decorate
+Saturday 5/2 - Comparing my website currently to a professional website and seeing what I could change differently
+Sunday 5/3 - Finishing adding text and decorate it to look good
+M 5/4 - Finish website and submit
 
 #### MVP
-
+T 4/30 - Adding a working navbar and images
+F 5/1 - Made a working carousel for images
+Saturday 5/2 - Added a more info button so you get directed into another html page.
+Sunday 5/3 - Adding my FP tool, Bulma for button size.
+M 5/4 - 
 * Task/Timeline
 
 ---
