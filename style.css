@@ -1,10 +1,8 @@
 body{
- background: linear-gradient(
-    to left,
-    #c2bdbd 25%,
-    #444444 50%,
-    #939090 75%,
-    #959494 100%
+    background-image: url("background.avif");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
   );
 font-family:Fuzzy Bubbles;
 }
@@ -35,3 +33,21 @@ img {
   padding-top: 0.1px;
   padding-bottom: 0.1px;
 }
+
+.hero {
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+                url("yourbackground.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+section {
+    padding: 60px 0;
+}
+
+.carousel {
+    max-width: 900px;
+    margin: 0 auto;
+}
+s
