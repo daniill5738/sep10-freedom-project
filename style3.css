@@ -4,16 +4,6 @@ body{
     background-position: center;
     height: 100vh;
     font-family:Fuzzy Bubbles;
-    margin: 0;
-    padding: 0;
-}
-
-.navbar {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 1000;
-}
 }
 
 h1{
@@ -90,9 +80,3 @@ section {
         color: #38bdf8;
     }
 
-.navbar {
-    position: fixed;
-    width: 100%;
-    padding-top: 0.1px;
-    padding-bottom: 0.1px;
-}
