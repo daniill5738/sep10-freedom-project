@@ -6,6 +6,7 @@ body{
     font-family:Fuzzy Bubbles;
     margin: 0;
     padding: 0;
+    font-size: 16px;
 }
 
 .navbar {
@@ -13,11 +14,6 @@ body{
     top: 0;
     width: 100%;
     z-index: 1000;
-}
-}
-
-h1{
-    font-family:Cherry Cream Soda;
 }
 
 html {
@@ -95,4 +91,17 @@ section {
     width: 100%;
     padding-top: 0.1px;
     padding-bottom: 0.1px;
+}
+
+h1 {
+    font-size: 40px;
+    font-family:Cherry Cream Soda;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 16px;
 }

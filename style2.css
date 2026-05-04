@@ -71,3 +71,10 @@ h1 {
     color: #FFFFFF;
 
 }
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    padding-top: 0.1px;
+    padding-bottom: 0.1px;
+}
