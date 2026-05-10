@@ -35,7 +35,7 @@ Problem solving has helped me fix alot of coding mistakes that I had made and la
 Creativity helped me choose layouts, fonts, and images to make my website look more professional and gave me a opportunity to showcase my imagination on how my ideal website would look like.
 
 # Summary
-Overall, creating my MVP helped me improve my coding skills and understanding of web design. I learned more about HTML, CSS, Bootstrap, and how websites are organized. I also learned that testing and fixing mistakes is an important part of creating a successful website.
+Overall, creating my MVP helped me improve my coding skills and understanding of web design. I learned more about HTML, CSS, Bootstrap, and how websites are organized. I also learned that testing and fixing mistakes is an significant part of creating a successful website.
 
 [Previous](entry05.md) | [Next](entry07.md)
 
