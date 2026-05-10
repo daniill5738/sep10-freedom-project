@@ -28,11 +28,11 @@ I am currently in the prototyping stage of the Engineering Design Process. My MV
 
 **Problem solving**
 
-Problem solving helped me fix coding mistakes and layout issues while building my website.
+Problem solving has helped me fix alot of coding mistakes that I had made and layout issues on how it would look like in different screen sizes while building my website.
 
 **Creativity**
 
-Creativity helped me choose layouts, fonts, and images to make my website look more interesting and professional.
+Creativity helped me choose layouts, fonts, and images to make my website look more professional and gave me a opportunity to showcase my imagination on how my ideal website would look like.
 
 # Summary
 Overall, creating my MVP helped me improve my coding skills and understanding of web design. I learned more about HTML, CSS, Bootstrap, and how websites are organized. I also learned that testing and fixing mistakes is an important part of creating a successful website.
