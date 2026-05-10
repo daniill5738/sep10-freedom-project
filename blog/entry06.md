@@ -19,7 +19,7 @@ I've been focused on creating the MVP for my Freedom Project website about my to
 </div>
 ```
 # Challenges
-One challenge I experienced while creating my MVP was making the website fit correctly on my Chromebook screen. The layout looked fine on my monitor but some sections looked too large on smaller screens. Another challenge was organizing all my pages and making sure the navbar links worked correctly.
+One challenge I experienced while creating my MVP was making my website adapt and fit correctly on my Chromebook screen. Where on my pc monitor screen the looked fine on my monitor but on other screen sizes like my chromebook which has a smaller screen made the layout  look too large on smaller screens. Furthermore, another challenge was using my FP tool known as Bulma as I regreted choosing this tool because it actually overided my bootstrap code which made my whole website change and I was really annoyed by this and had to fix it.
 
 # EDP (Engineering Design Process)
 I am currently in the prototyping stage of the Engineering Design Process. My MVP is the first working version of my project, and I will continue improving the design and adding more features later.
