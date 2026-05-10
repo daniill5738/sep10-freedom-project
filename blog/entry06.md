@@ -21,7 +21,7 @@ I've been focused on creating the MVP for my Freedom Project website about my to
 # Challenges
 One challenge I experienced while creating my MVP was making the website fit correctly on my Chromebook screen. The layout looked fine on my monitor but some sections looked too large on smaller screens. Another challenge was organizing all my pages and making sure the navbar links worked correctly.
 
-# Engineering Design Process
+# EDP (Engineering Design Process)
 I am currently in the prototyping stage of the Engineering Design Process. My MVP is the first working version of my project, and I will continue improving the design and adding more features later.
 
 # Skills
