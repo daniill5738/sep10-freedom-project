@@ -38,8 +38,11 @@ img {
 .hero {
     background-size: cover;
     background-position: center;
-    height: 100vh;
+    min-height: 100vh;
+    padding-top: 35px;
+    background-size: cover;
 }
+
 
 
 .carousel {
@@ -70,8 +73,10 @@ p {
 
 .info-section {
     margin-bottom: 50px;
+    margin-top: 40px;
+}
 }
 
 section {
-    padding: 60px;
+    padding: 20px;
 }
