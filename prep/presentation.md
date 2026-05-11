@@ -4,10 +4,10 @@
 * 
 
 ## Product
-* 
+* I am going to show off my exisiting technologies that business use and future technologies that I thought was going to be helpful in the near future.
 
 ## Process
-* 
+* I will show my index.html and style.css code and tell them step by step on how I did it.
 
 ## Conclusion
 * 
