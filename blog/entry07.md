@@ -20,11 +20,11 @@ One takeaway from my presentation was learning that knowing my project well made
 
 # Skills
 
-## Communication
+### Communication
 
 I improved my communication skills by presenting my project and explaining my website to others. Also practicing with peers to build more confidence.
 
-## Time Management
+### Time Management
 
 I managed my time by preparing my presentation ahead of time instead of waiting until the last minute to do everything.
 
