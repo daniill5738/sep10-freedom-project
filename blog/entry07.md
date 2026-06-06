@@ -37,7 +37,7 @@ Overall, giving my presentation and Expo elevator pitch helped me improve my com
 
 [In-Class Presentation](https://docs.google.com/presentation/d/1nkL66g_7BFk0PUMI2agHJVIQsSo0Z70NaVvneUa_bSE/edit)
 
-# Other Opitions
+# Other Options
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
