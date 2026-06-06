@@ -3,7 +3,7 @@
 
 # Context
 
-Recently, I gave my in-class presentation and Expo elevator pitch for my Freedom Project. My project was a website about hardware, software, and future technologies that businesses use to be more successful. It was very stressing going up to an audience and presenting my project even though I wanted to just get it over with. After presenting in class and the cafeteria, I learned how significant preparation really is.
+Recently, I gave my in-class presentation and Expo elevator pitch for my Freedom Project. My project was a website about hardware, software, and future technologies that businesses use to be more successful. It was very stressful going up to an audience and presenting my project even though I wanted to just get it over with. After presenting in class and the cafeteria, I learned how significant preparation really is.
 
 Furthermore, when my teacher assigned an assignment to prepare slides it really helped me a ton. Creating a presentation plan beforehand helped me stay organized and explain my project more clearly. This led to my confidence being higher when presenting to people. I also learned how to explain coding and technology concepts in a way that other people could understand.
 
@@ -16,7 +16,7 @@ The problem that I had encountered with is presenting without messing up and ove
 Overall, this will help me in the long run in the near future when I have to present something to a large audience.
 
 # Takeaways
-One takeaway from my presentation was learning that knowing my project well made it much easier to answer questions. I also realized that explaining the purpose of my website was just as important as showing the code. During the Expo, I learned how to adapt my explanation by shorting my elevator pitch to under a minute so it can not be boring and have the judges attention span, which I became more confident speaking with people I did not know.
+One takeaway from my presentation was learning that knowing my project well made it much easier to answer questions. I also realized that explaining the purpose of my website was just as important as showing the code. During the Expo, I learned how to adapt my explanation by shortening my elevator pitch to under a minute so it wouldn't be boring and have the judges attention span, which I became more confident speaking with people I did not know. Additionally, at first I was nervous speaking in front of judges, but once I started talking, I noticed my confidence increased and I was able to focus more on what I was saying instead of worrying about mistakes.
 
 # Skills
 
