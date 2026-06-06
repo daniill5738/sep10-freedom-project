@@ -15,6 +15,15 @@ The problem that I had encountered with is presenting without messing up and ove
 
 Overall, this will help me in the long run in the near future when I have to present something to a large audience.
 
+# Skills
+
+## Communication
+
+I improved my communication skills by presenting my project and explaining my website to others.
+
+## Time Management
+
+I managed my time by preparing my presentation ahead of time instead of waiting until the last minute.
 
 [Previous](entry06.md) | [Next](entry08.md)
 
