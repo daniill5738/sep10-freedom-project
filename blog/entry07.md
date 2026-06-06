@@ -7,6 +7,11 @@ Recently, I gave my in-class presentation and Expo elevator pitch for my Freedom
 
 Since I only had a short amount of time, I had to focus on the most important parts of my project. This helped me learn how to summarize information quickly and keep people's attention when presenting. I also became more confident talking about my website and answering questions.
 
+# Engineering Design Process (EDP)
+
+The problem that I had encountered with is presenting without messing up and overthinking alot, I was really stressed out when I heard my name called to go up to present to my class and judges. Furthermore, to be more calm and confident I practiced by presenting to my friends first to get used to it and make it less cortisol. I also like to hear people present so I can get more ideas on what to say. Overall, this will help me in the long run in the near future when I have to present something to a large audience.
+
+
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
