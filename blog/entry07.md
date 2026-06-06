@@ -33,7 +33,7 @@ I managed my time by preparing my presentation ahead of time instead of waiting 
 Overall, giving my presentation and Expo elevator pitch helped me improve my communication and public speaking skills. Moreover, I also learned the importance of preparation and how to elaborate my project more clearly, and how to confidently answer questions about my website.
 
 # Sources
-[Presentation Plan](prep/presentation)
+[Presentation Plan](../prep/presentation)
 
 [In-Class Presentation](https://docs.google.com/presentation/d/1nkL66g_7BFk0PUMI2agHJVIQsSo0Z70NaVvneUa_bSE/edit)
 
