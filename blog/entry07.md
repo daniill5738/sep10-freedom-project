@@ -19,11 +19,11 @@ Overall, this will help me in the long run in the near future when I have to pre
 
 ## Communication
 
-I improved my communication skills by presenting my project and explaining my website to others.
+I improved my communication skills by presenting my project and explaining my website to others. Also practicing with peers to build more confidence.
 
 ## Time Management
 
-I managed my time by preparing my presentation ahead of time instead of waiting until the last minute.
+I managed my time by preparing my presentation ahead of time instead of waiting until the last minute to do everything.
 
 [Previous](entry06.md) | [Next](entry08.md)
 
