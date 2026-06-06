@@ -15,6 +15,9 @@ The problem that I had encountered with is presenting without messing up and ove
 
 Overall, this will help me in the long run in the near future when I have to present something to a large audience.
 
+# Takeaways
+One takeaway from my presentation was learning that knowing my project well made it much easier to answer questions. I also realized that explaining the purpose of my website was just as important as showing the code. During the Expo, I learned how to adapt my explanation by shorting my elevator pitch to under a minute so it can not be boring and have the judges attention span, which I became more confident speaking with people I did not know.
+
 # Skills
 
 ## Communication
@@ -25,6 +28,13 @@ I improved my communication skills by presenting my project and explaining my we
 
 I managed my time by preparing my presentation ahead of time instead of waiting until the last minute to do everything.
 
+# Summary
+
+Overall, giving my presentation and Expo elevator pitch helped me improve my communication and public speaking skills. Moreover, I also learned the importance of preparation and how to elaborate my project more clearly, and how to confidently answer questions about my website.
+
+# Sources
+
+https://bulma.io/documentation/
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
